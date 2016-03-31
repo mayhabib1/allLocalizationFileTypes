@@ -3,5 +3,6 @@ en:
     field:
       prop: Pretend this is source 6
       slogan: That we want to update v6
-      greeting: Good morning morning
-      farewell: Good bye bye morning
+      greeting: Good morning!
+      farewell: Good bye!
+      farewell: Test test
